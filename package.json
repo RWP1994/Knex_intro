@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "knex": "^3.1.0",
+    "node": "^20.19.0",
+    "pg": "^8.14.0",
+    "postgres": "^3.4.5"
+  },
+  "name": "knex_intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RWP1994/Knex_intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RWP1994/Knex_intro/issues"
+  },
+  "homepage": "https://github.com/RWP1994/Knex_intro#readme",
+  "description": ""
+}
